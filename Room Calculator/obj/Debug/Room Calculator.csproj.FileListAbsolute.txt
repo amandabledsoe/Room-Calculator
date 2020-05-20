@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\bin\Debug\Room Calculator.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\bin\Debug\Room Calculator.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\bin\Debug\Room Calculator.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\obj\Debug\Room Calculator.csprojResolveAssemblyReference.cache
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\obj\Debug\Room Calculator.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 1 Room Calculator Refactor\Room Calculator\Room Calculator\obj\Debug\Room Calculator.pdb
